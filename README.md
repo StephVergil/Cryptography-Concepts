@@ -60,4 +60,4 @@ This project explores cryptographic techniques such as **steganography**, **hash
 
 ## Documentation
 
-For full instructions, refer to the [Cryptography Lab Guide](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Cryptography%20Concepts%20copy.docx).
+For full instructions, refer to the [Cryptography Concepts](https://github.com/StephVergil/Cryptography-Concepts/blob/main/Cryptography%20Concepts%20copy.docx)
